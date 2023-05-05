@@ -1,4 +1,4 @@
-# BitBucket
+# BitBucket setup steps
 
 -   Clone the repo
 ```
