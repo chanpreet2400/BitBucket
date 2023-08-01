@@ -36,6 +36,12 @@ git commit -m "IASCB-200103-BUG:your message"
 
 ```
 
+-   Pull the latest code from branch
+```
+git pull origin 'branch name'
+```
+``` Eg: git pull origin feature/IASCB-111144 ```
+
 -   Push to your branch
 ```
 git push --set-upstream origin feature/’your-jira-issue’
